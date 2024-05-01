@@ -1,0 +1,3 @@
+import{d as i,u as m,r as d,c as f,a as g,b as s,e as r,t as o,P as u,o as y,f as _}from"./rlhfd34B.js";const b={style:{"padding-top":"2rem"}},h=i({__name:"[subCategory]",setup(v){const{$MenuItemsData:n}=_(),l=n,t=m().currentRoute.value;let a=d(!1);if(l.forEach((e,p)=>{e.title===t.params.category&&e.subItem.some(c=>c.sTitle===t.params.subCategory)&&(a.value=!0)}),!a.value)throw f({statusCode:404,statusMessage:"Page Not Found",fatal:!0});return(e,p)=>(y(),g("div",null,[s(`
+        Dynamic router
+        `),r("h3",b,"Category: "+o((e._.provides[u]||e.$route).params.category),1),s(),r("p",null,"Items Title: "+o((e._.provides[u]||e.$route).params.subCategory),1)]))}});export{h as default};

@@ -1,0 +1,1 @@
+import{l as s,d as o,a as t,o as a,e}from"./rlhfd34B.js";const i=s("/video/video_0.mp4"),n={class:"main",style:{height:"2000px"}},c=e("div",{class:"video container"},[e("div",{class:"videoContent"},[e("video",{playsinline:"",loop:"",autoplay:"",muted:"",src:i})])],-1),d=[c],m=o({__name:"index",setup(_){return(l,p)=>(a(),t("div",n,d))}});export{m as default};
