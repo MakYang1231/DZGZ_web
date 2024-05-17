@@ -1,1 +1,0 @@
-import{_ as s,b as t,a as o,e}from"./DhukrExh.js";const c={},n={class:"main",style:{height:"2000px"}},a=e("div",{class:"video container"},[e("div",{class:"videoContent"})],-1),i=[a];function _(d,r){return o(),t("div",n,i)}const f=s(c,[["render",_]]);export{f as default};
