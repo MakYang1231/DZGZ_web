@@ -1,0 +1,1 @@
+import{_ as s}from"./BCzGIEXV.js";import{A as t,z as o,D as e}from"./orbDqLiy.js";const c={},n={class:"main",style:{height:"2000px"}},a=e("div",{class:"video container"},[e("div",{class:"videoContent"})],-1),i=[a];function r(_,d){return o(),t("div",n,i)}const m=s(c,[["render",r]]);export{m as default};
